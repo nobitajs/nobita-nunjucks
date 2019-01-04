@@ -1,10 +1,11 @@
 {
   "name": "nobita-nunjucks",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "nobita-nunjucks",
   "main": "lib/nobita-nunjucks.js",
   "dependencies": {
-    "nunjucks": "3.1.2"
+    "nunjucks": "3.1.2",
+    "nobita-require": "0.0.2"
   },
   "devDependencies": {
     "koa": "^2.5.0",
