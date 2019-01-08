@@ -1,6 +1,6 @@
 {
   "name": "nobita-nunjucks",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "nobita-nunjucks",
   "main": "lib/nobita-nunjucks.js",
   "dependencies": {
